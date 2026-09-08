@@ -1,6 +1,6 @@
-# 📊 Sales Analysis Dashboard using Excel, Pandas & PySpark
+#  Sales Analysis Dashboard 
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project focuses on analyzing sales data to extract meaningful business insights and build an interactive sales dashboard.
 
@@ -45,7 +45,7 @@ To overcome these challenges, data preprocessing techniques were implemented usi
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 | Technology      | Purpose                                 |
 | --------------- | --------------------------------------- |
@@ -57,7 +57,7 @@ To overcome these challenges, data preprocessing techniques were implemented usi
 
 ---
 
-# 📂 Dataset Columns
+#  Dataset Columns
 
 Some important columns used in this project:
 
@@ -73,7 +73,7 @@ Some important columns used in this project:
 
 ---
 
-# 🧹 Data Cleaning & Transformation
+#  Data Cleaning & Transformation
 
 The following preprocessing steps were performed:
 
@@ -86,19 +86,19 @@ The following preprocessing steps were performed:
 
 ---
 
-# 📈 Analysis Performed
+#  Analysis Performed
 
-## 👥 Customer Analysis
+##  Customer Analysis
 
 * Identified customer growth over multiple years
 * Compared increase and decrease in customers yearly
 
-## 🌍 Regional Analysis
+##  Regional Analysis
 
 * Found regions and countries with the highest customers
 * Analyzed sales distribution by location
 
-## 💰 Profit Analysis
+##  Profit Analysis
 
 * Calculated overall profit trends
 * Used 2D Line Charts for profit visualization
@@ -111,20 +111,20 @@ The following preprocessing steps were performed:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The dashboard includes:
 
-* 📈 Line Charts
-* 🥧 Pie Charts
-* 📅 Year-wise Sales Analysis
-* 🌍 Region-wise Customer Insights
-* 💹 Profit Trend Analysis
-* 📌 Interactive Pivot Tables
+*  Line Charts
+*  Pie Charts
+*  Year-wise Sales Analysis
+*  Region-wise Customer Insights
+*  Profit Trend Analysis
+*  Interactive Pivot Tables
 
 ---
 
-# ⚠️ Challenges Faced
+#  Challenges Faced
 
 One of the biggest challenges was handling dirty date values.
 
@@ -148,7 +148,7 @@ To solve this issue:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```bash
 Sales-Analysis-Project/
@@ -159,7 +159,7 @@ Sales-Analysis-Project/
 ├── dashboard/
 ├── README.md
 
-# 📌 Key Insights
+#  Key Insights
 
 * Certain regions generated higher profits consistently
 * Customer count increased over the years
@@ -168,7 +168,7 @@ Sales-Analysis-Project/
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 * Automate ETL pipeline using Python
 
@@ -188,8 +188,8 @@ It also showcases the integration of Excel with Python tools like Pandas and PyS
 
 ---
 
-# 📬 Contact
+#  Contact
 
 If you liked this project, feel free to connect or give feedback.
 
-⭐ Don't forget to star the repository if you found it useful.
+ Don't forget to star the repository if you found it useful.

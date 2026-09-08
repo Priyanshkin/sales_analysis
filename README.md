@@ -25,7 +25,7 @@ This project can also be used as a portfolio project for data analysis and dashb
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 The objective of this project is to:
 
@@ -77,12 +77,12 @@ Some important columns used in this project:
 
 The following preprocessing steps were performed:
 
-✅ Removed blank values
-✅ Corrected invalid date formats
-✅ Extracted Year and Month from Order Date
-✅ Handled inconsistent data entries
-✅ Standardized data formatting
-✅ Removed duplicate records
+ Removed blank values
+ Corrected invalid date formats
+ Extracted Year and Month from Order Date
+ Handled inconsistent data entries
+ Standardized data formatting
+ Removed duplicate records
 
 ---
 
@@ -104,7 +104,7 @@ The following preprocessing steps were performed:
 * Used 2D Line Charts for profit visualization
 * Used Pie Charts for contribution analysis
 
-## 📅 Yearly Sales Analysis
+##  Yearly Sales Analysis
 
 * Compared yearly sales performance
 * Used charts for trend analysis
@@ -174,7 +174,7 @@ Sales-Analysis-Project/
 
 ---
 
-# 🤝 Conclusion
+#  Conclusion
 
 This project demonstrates practical skills in:
 
